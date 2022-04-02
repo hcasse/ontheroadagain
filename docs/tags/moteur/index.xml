@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moteur on On The Road Again...</title>
+    <link>https://hcasse.github.com/tags/moteur/</link>
+    <description>Recent content in moteur on On The Road Again...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://hcasse.github.com/tags/moteur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le robot</title>
+      <link>https://hcasse.github.com/docs/lerobot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcasse.github.com/docs/lerobot/</guid>
+      <description>La configuration du robot sera assez simple : le temps qui nous est imparti est assez court et le montage doit être accessible à tout le monde.
+Au niveau matériel La photo ci-dessous montre l&amp;rsquo;ensemble des composants qui vont constituer le robot :
+Au niveau électronique, on trouve :
+ 1 Arduino Uno 1 shield Arduino moteur L298 d&amp;rsquo;ElecFreaks 1 rampe de 3 capteurs IR QTR-3RC de Polulu  Le shield moteur est nécessaire car l&amp;rsquo;Arduino ne délivre pas assez de puissance pour alimnter les moteurs : si on le connectait directement aux moteurs, on aurait de forte chance de le faire fondre.</description>
+    </item>
+    
+  </channel>
+</rss>

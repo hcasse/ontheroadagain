@@ -3,6 +3,7 @@ languageCode = "fr"
 title = "On The Road Again..."
 theme = "story"
 paginate = 5
+publishDir = "docs"
 
 [[menu.main]]
   name = "Blogs"
