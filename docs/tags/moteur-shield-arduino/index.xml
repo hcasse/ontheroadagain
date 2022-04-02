@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>moteur, shield, arduino on On The Road Again...</title>
-    <link>https://hcasse.github.com/tags/moteur-shield-arduino/</link>
+    <link>https://hcasse.github.com/ontheroadagain/tags/moteur-shield-arduino/</link>
     <description>Recent content in moteur, shield, arduino on On The Road Again...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="https://hcasse.github.com/tags/moteur-shield-arduino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcasse.github.com/ontheroadagain/tags/moteur-shield-arduino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shield moteur</title>
-      <link>https://hcasse.github.com/docs/shield-moteur/</link>
+      <link>https://hcasse.github.com/ontheroadagain/docs/shield-moteur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcasse.github.com/docs/shield-moteur/</guid>
+      <guid>https://hcasse.github.com/ontheroadagain/docs/shield-moteur/</guid>
       <description>Comme nous l&amp;rsquo;avons déjà dit, il serait dangereux pour l&amp;rsquo;Arduino de le relier directement aux moteurs qui demandent bien trop de puissance.
 A la place, nous allons utiliser un shied dédié (circuit emboîtable sur les broches de l&amp;rsquo;Arduino). Ce shield, ke L298 MotorChild d&amp;rsquo;ElecFreaks, fournit :
  un circuit de puissance permettant d&amp;rsquo;alimenter jusqu&#39;à 2 moteurs, des commandes permettant de contrôler les moteurs à partir de l&amp;rsquo;Arduino.  La documentation officielle est ici.</description>
