@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on On The Road Again...</title>
+    <link>https://hcasse.github.com/docs/</link>
+    <description>Recent content in Documentation on On The Road Again...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://hcasse.github.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://hcasse.github.com/docs/arduino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcasse.github.com/docs/arduino/</guid>
+      <description>L&amp;rsquo;Arduino Uno est une petit carte contenant un micro-contrôleur assez petit et économique (~15€). Equipé d&amp;rsquo;un petit processeur AVR ATmega328P d&amp;rsquo;ATMEL, il a l&amp;rsquo;avantage d&amp;rsquo;utiliser une tension interne de 5V ce qui permet de le connecter facilement avec de nombreux capteurs et actionneurs (contre 3,3V ou 1,8V pour ARM et autres compatible x86).
+Configuration matérielle Bien sûr, à un tel prix, il ne faut pas s&amp;rsquo;attendre à trop de puissance :</description>
+    </item>
+    
+    <item>
+      <title>Le robot</title>
+      <link>https://hcasse.github.com/docs/lerobot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcasse.github.com/docs/lerobot/</guid>
+      <description>La configuration du robot sera assez simple : le temps qui nous est imparti est assez court et le montage doit être accessible à tout le monde.
+Au niveau matériel La photo ci-dessous montre l&amp;rsquo;ensemble des composants qui vont constituer le robot :
+Au niveau électronique, on trouve :
+ 1 Arduino Uno 1 shield Arduino moteur L298 d&amp;rsquo;ElecFreaks 1 rampe de 3 capteurs IR QTR-3RC de Polulu  Le shield moteur est nécessaire car l&amp;rsquo;Arduino ne délivre pas assez de puissance pour alimnter les moteurs : si on le connectait directement aux moteurs, on aurait de forte chance de le faire fondre.</description>
+    </item>
+    
+    <item>
+      <title>Moteur à courant-continu DG01D</title>
+      <link>https://hcasse.github.com/docs/moteur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcasse.github.com/docs/moteur/</guid>
+      <description>Nous allons utiliser des moteur à courant continu, aussi appelés motoréducteurs : ils incluent un moteur en courant continu et un ensemble de pignons permettant de réduire la vitesse du moteur et de transformer en mouvement perpendiculaire à l&amp;rsquo;axe du moteur. Ce dernier système permet de rendre moins encombrant le moteur pou l&amp;rsquo;assemblage sur le robot.
+Ils sont constitué d&amp;rsquo;un double sortie sur axe Ø5 mm à double méplat.
+Les caractéristiques de ces moteurs sont les suivantes :</description>
+    </item>
+    
+    <item>
+      <title>Rampe de capteurs IR</title>
+      <link>https://hcasse.github.com/docs/rampeir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcasse.github.com/docs/rampeir/</guid>
+      <description>Le capteur utilisé dans le projet est un rampe de 3 capteurs Infra-Rouge (IR) QTR-3C de Polulu.
+La documentation officielle est ici.
+Bien que je conseille la lecture de ces documents, je vais faire ici un résumé.
+Le capteur est composé de 3 couples (LED IR émettrice, photo-transistor) : la LED émet un rayon IR qui est, après réflection, reçu par le photo-transistor. Le temps entre l&#39;émission et la réception du singal est proportionnel à la réflexivité du support : plus c&amp;rsquo;est court, plus le support est réflexif (blanc); plus c&amp;rsquo;est long (voire aucun relfet), plus le support est peu réflexif (noir).</description>
+    </item>
+    
+    <item>
+      <title>Shield moteur</title>
+      <link>https://hcasse.github.com/docs/shield-moteur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcasse.github.com/docs/shield-moteur/</guid>
+      <description>Comme nous l&amp;rsquo;avons déjà dit, il serait dangereux pour l&amp;rsquo;Arduino de le relier directement aux moteurs qui demandent bien trop de puissance.
+A la place, nous allons utiliser un shied dédié (circuit emboîtable sur les broches de l&amp;rsquo;Arduino). Ce shield, ke L298 MotorChild d&amp;rsquo;ElecFreaks, fournit :
+ un circuit de puissance permettant d&amp;rsquo;alimenter jusqu&#39;à 2 moteurs, des commandes permettant de contrôler les moteurs à partir de l&amp;rsquo;Arduino.  La documentation officielle est ici.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hcasse.github.com/posts/</loc>
+    <lastmod>2022-03-29T12:18:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hcasse.github.com/posts/2022/</loc>
     <lastmod>2022-03-29T12:18:06+02:00</lastmod>
   </url>
@@ -13,12 +18,79 @@
   </url>
   
   <url>
-    <loc>https://hcasse.github.com/posts/</loc>
-    <lastmod>2022-03-29T12:18:06+02:00</lastmod>
+    <loc>https://hcasse.github.com/authors/hugues-casse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/alimentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/docs/arduino/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/capteur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/capteur-ir/</loc>
   </url>
   
   <url>
     <loc>https://hcasse.github.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/ir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/docs/lerobot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/mat%C3%A9riel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/mat%C3%A9riel-microcontr%C3%B4leur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/moteur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/docs/moteur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/moteur-courant-continu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/moteur-shield-arduino/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/docs/rampeir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/tags/robot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcasse.github.com/docs/shield-moteur/</loc>
   </url>
   
   <url>

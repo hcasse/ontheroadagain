@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on On The Road Again...</title>
+    <title>News on On The Road Again...</title>
     <link>https://hcasse.github.com/posts/</link>
-    <description>Recent content in Posts on On The Road Again...</description>
+    <description>Recent content in News on On The Road Again...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 29 Mar 2022 12:18:06 +0200</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 29 Mar 2022 12:18:06 +0200</pubDate>
       
       <guid>https://hcasse.github.com/posts/2022/</guid>
-      <description>Une nouvelle d&amp;rsquo;On The Road Again va démarrer!.
+      <description>Une nouvelle saison d&amp;rsquo;On The Road Again va démarrer!.
 La réunion aura le Lundi 04/04/22 à 14:00 en salle U3-305.
 Durant cette réunion on parlera technique et organisation. Enfin, je confierai le matériel aux équipes participantes.</description>
     </item>
