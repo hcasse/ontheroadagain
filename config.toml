@@ -1,0 +1,25 @@
+baseURL = "https://hcasse.github.com/"
+languageCode = "fr"
+title = "On The Road Again..."
+theme = "story"
+paginate = 5
+
+[[menu.main]]
+  name = "Blogs"
+  title = "Blogs"
+  url = "/blogs/"
+  weight = 3
+
+[[menu.main]]
+  name = "Doc"
+  title = "Doc"
+  url = "/docs/"
+  weight = 2
+
+[[menu.main]]
+  name = "News"
+  title = "News"
+  url = "/posts/"
+  weight = 1
+
+
