@@ -24,3 +24,22 @@ Pour mettre une image (placée dans votre répertoire):
 ```
 
 ![Image](../semaine1.jpg)
+
+Pour créer votre blog, il suffit de répéter la structure :
+* `content/blogs/myblog` -- ce répertoire doit être en minuscule,
+* `content/authors/my-blog` -- nom de l'auteur en minuscule avec les espaces remplacés par des `-`.
+
+Vous avez besoin de [Hugo](https://gohugo.io/) pour générer le site (disponible sur toute bonne distribution Linux).
+
+Vous pouvez alors tested vos pages :
+```bash
+$ hugo serve
+```
+
+Le site serva visible à l'adresse : `http://localhost:1313/ontheroadagain/`.
+
+Après, vous pouvez commiter and pusher.
+```bash
+$ git commit -a
+$ git push
+```
