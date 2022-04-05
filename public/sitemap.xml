@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://secil.univ-tlse3.fr/ontheroadagain/tags/alimentation/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secil.univ-tlse3.fr/ontheroadagain/tags/alimentation-moteur-arduino-usb-shield-moteur/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://secil.univ-tlse3.fr/ontheroadagain/posts/kickoff/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://secil.univ-tlse3.fr/ontheroadagain/tags/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://secil.univ-tlse3.fr/ontheroadagain/docs/robot-parts/</loc>
     <lastmod>2022-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -39,11 +54,6 @@
   
   <url>
     <loc>https://secil.univ-tlse3.fr/ontheroadagain/tags/robot-impression-3d-openscad/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secil.univ-tlse3.fr/ontheroadagain/tags/</loc>
     <lastmod>2022-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -72,11 +82,15 @@
   </url>
   
   <url>
-    <loc>https://secil.univ-tlse3.fr/ontheroadagain/tags/alimentation/</loc>
+    <loc>https://secil.univ-tlse3.fr/ontheroadagain/authors/my-blog/</loc>
   </url>
   
   <url>
     <loc>https://secil.univ-tlse3.fr/ontheroadagain/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://secil.univ-tlse3.fr/ontheroadagain/blogs/</loc>
   </url>
   
   <url>
@@ -117,6 +131,10 @@
   
   <url>
     <loc>https://secil.univ-tlse3.fr/ontheroadagain/docs/rampeir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://secil.univ-tlse3.fr/ontheroadagain/blogs/myblog/semaine1/</loc>
   </url>
   
   <url>

@@ -5,6 +5,7 @@ draft: false
 date: 2022-04-05
 image: docs/electric.jpg
 credit: https://www.flickr.com/photos/26527162@N04/
+tags: alimentation, moteur, arduino, usb, shield moteur
 ---
 
 Contrairement à une connexion classique sur une carte mère, un système
