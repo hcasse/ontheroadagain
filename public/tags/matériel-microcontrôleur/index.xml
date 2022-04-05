@@ -6,6 +6,7 @@
     <description>Recent content in matériel, microcontrôleur on On The Road Again...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://secil.univ-tlse3.fr/ontheroadagain/tags/mat%C3%A9riel-microcontr%C3%B4leur/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Arduino</title>
       <link>https://secil.univ-tlse3.fr/ontheroadagain/docs/arduino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://secil.univ-tlse3.fr/ontheroadagain/docs/arduino/</guid>
       <description>L&amp;rsquo;Arduino Uno est une petit carte contenant un micro-contrôleur assez petit et économique (~15€). Equipé d&amp;rsquo;un petit processeur AVR ATmega328P d&amp;rsquo;ATMEL, il a l&amp;rsquo;avantage d&amp;rsquo;utiliser une tension interne de 5V ce qui permet de le connecter facilement avec de nombreux capteurs et actionneurs (contre 3,3V ou 1,8V pour ARM et autres compatible x86).

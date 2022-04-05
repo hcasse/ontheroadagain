@@ -76,6 +76,92 @@
 		<div class="db pv4 ph3 ph0-l no-underline dark-gray">
 			<div class="flex flex-column flex-row-ns">
 				
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover hide-child" style="background-image: url('https://secil.univ-tlse3.fr/ontheroadagain/docs/wall-e.jpg'); background-position: center;">
+					<a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/lerobot/" class="sans-serif db child w-100 h-100 f7 lh-copy white no-underline br3 ph3 pt4 pt5-l ttu tc bg-black-60">
+						<i class="mt3 mt5-l child far fa-calendar-alt"></i> Jan 1, 0001
+					</a>
+				</div>
+				
+				<div class="w-100 w6-ns pl3-ns">
+					<h1 class="f3 fw1 mt0 lh-title"><a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/lerobot/" class="color-inherit dim link">Le robot</a></h1>
+					<div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+						
+							La configuration du robot sera assez simple : le temps qui nous est imparti est assez court et le montage doit être accessible à tout le monde.
+Au niveau matériel La photo ci-dessous montre l&rsquo;ensemble des composants qui vont constituer le robot :
+Au niveau électronique, on trouve :
+ 1 Arduino Uno 1 shield Arduino moteur L298 d&rsquo;ElecFreaks 1 rampe de 3 capteurs IR QTR-3RC de Polulu  Le shield moteur est nécessaire car l&rsquo;Arduino ne délivre pas assez de puissance pour alimnter les moteurs : si on le connectait directement aux moteurs, on aurait de forte chance de le faire fondre.
+							<p class="pa0 sans-serif f7"><a class="ba br3 pa2 link" href="https://secil.univ-tlse3.fr/ontheroadagain/docs/lerobot/">Continue Reading <i class="fas fa-chevron-circle-right"></i></a></p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+
+		
+			<div class="relative w-100">
+	<article>
+		<div class="db pv4 ph3 ph0-l no-underline dark-gray">
+			<div class="flex flex-column flex-row-ns">
+				
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover hide-child" style="background-image: url('https://secil.univ-tlse3.fr/ontheroadagain/docs/moteur.jpg'); background-position: center;">
+					<a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/moteur/" class="sans-serif db child w-100 h-100 f7 lh-copy white no-underline br3 ph3 pt4 pt5-l ttu tc bg-black-60">
+						<i class="mt3 mt5-l child far fa-calendar-alt"></i> Jan 1, 0001
+					</a>
+				</div>
+				
+				<div class="w-100 w6-ns pl3-ns">
+					<h1 class="f3 fw1 mt0 lh-title"><a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/moteur/" class="color-inherit dim link">Moteur à courant-continu DG01D</a></h1>
+					<div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+						
+							Nous allons utiliser des moteur à courant continu, aussi appelés motoréducteurs : ils incluent un moteur en courant continu et un ensemble de pignons permettant de réduire la vitesse du moteur et de transformer en mouvement perpendiculaire à l&rsquo;axe du moteur. Ce dernier système permet de rendre moins encombrant le moteur pou l&rsquo;assemblage sur le robot.
+Ils sont constitué d&rsquo;un double sortie sur axe Ø5 mm à double méplat.
+Les caractéristiques de ces moteurs sont les suivantes :
+							<p class="pa0 sans-serif f7"><a class="ba br3 pa2 link" href="https://secil.univ-tlse3.fr/ontheroadagain/docs/moteur/">Continue Reading <i class="fas fa-chevron-circle-right"></i></a></p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+
+		
+			<div class="relative w-100">
+	<article>
+		<div class="db pv4 ph3 ph0-l no-underline dark-gray">
+			<div class="flex flex-column flex-row-ns">
+				
+				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover hide-child" style="background-image: url('https://secil.univ-tlse3.fr/ontheroadagain/docs/IRS.jpg'); background-position: center;">
+					<a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/rampeir/" class="sans-serif db child w-100 h-100 f7 lh-copy white no-underline br3 ph3 pt4 pt5-l ttu tc bg-black-60">
+						<i class="mt3 mt5-l child far fa-calendar-alt"></i> Jan 1, 0001
+					</a>
+				</div>
+				
+				<div class="w-100 w6-ns pl3-ns">
+					<h1 class="f3 fw1 mt0 lh-title"><a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/rampeir/" class="color-inherit dim link">Rampe de capteurs IR</a></h1>
+					<div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+						
+							Le capteur utilisé dans le projet est un rampe de 3 capteurs Infra-Rouge (IR) QTR-3C de Polulu.
+La documentation officielle est ici.
+Bien que je conseille la lecture de ces documents, je vais faire ici un résumé.
+Le capteur est composé de 3 couples (LED IR émettrice, photo-transistor) : la LED émet un rayon IR qui est, après réflection, reçu par le photo-transistor. Le temps entre l'émission et la réception du singal est proportionnel à la réflexivité du support : plus c&rsquo;est court, plus le support est réflexif (blanc); plus c&rsquo;est long (voire aucun relfet), plus le support est peu réflexif (noir).
+							<p class="pa0 sans-serif f7"><a class="ba br3 pa2 link" href="https://secil.univ-tlse3.fr/ontheroadagain/docs/rampeir/">Continue Reading <i class="fas fa-chevron-circle-right"></i></a></p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</article>
+</div>
+
+		
+			<div class="relative w-100">
+	<article>
+		<div class="db pv4 ph3 ph0-l no-underline dark-gray">
+			<div class="flex flex-column flex-row-ns">
+				
 				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover hide-child" style="background-image: url('https://secil.univ-tlse3.fr/ontheroadagain/docs/highvolt.jpg'); background-position: center;">
 					<a href="https://secil.univ-tlse3.fr/ontheroadagain/docs/shield-moteur/" class="sans-serif db child w-100 h-100 f7 lh-copy white no-underline br3 ph3 pt4 pt5-l ttu tc bg-black-60">
 						<i class="mt3 mt5-l child far fa-calendar-alt"></i> Jan 1, 0001

@@ -24,7 +24,7 @@ La bibliothèque se présente sous forme d'une archive Git récupérable
 par la commande:
 
 ```bash
-$ git clone git@github.com:tcarle/RobotParts.git -b exp
+$ git clone https://github.com/tcarle/RobotParts.git -b exp
 ```
 
 Le répertoire `extern` contient les modèles 3D pour intégration alors

@@ -6,14 +6,38 @@
     <description>Recent content in Documentation on On The Road Again...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://secil.univ-tlse3.fr/ontheroadagain/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Réseau électrique dans un système embarqué</title>
+      <link>https://secil.univ-tlse3.fr/ontheroadagain/docs/electric/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://secil.univ-tlse3.fr/ontheroadagain/docs/electric/</guid>
+      <description>Contrairement à une connexion classique sur une carte mère, un système embarqué a à faire co-exister plusieurs domaines électriques :
+  Le calculateur fonctionne en courant continu en 5V, 3.3V ou même 1.8V.
+  Les capteurs et actionneurs peuvent nécessiter des tensions plus importantes.
+  L&amp;rsquo;alimentation doit permettre de fournir assez de courant pour l&amp;rsquo;ensembe du système et le courant nécessité est très variable d&amp;rsquo;un composant à l&amp;rsquo;autre.</description>
+    </item>
+    
+    <item>
+      <title>La bibliothèque RobotParts</title>
+      <link>https://secil.univ-tlse3.fr/ontheroadagain/docs/robot-parts/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://secil.univ-tlse3.fr/ontheroadagain/docs/robot-parts/</guid>
+      <description>Cette petite bibliothèque de pièces pour robot est développé à l&amp;rsquo;Université Paul Sabatier. Elle a déjà permis la mise en oeuvre de plusieurs petits robot suiveurs de ligne mais nous espérons qu&amp;rsquo;elle servira pour d&amp;rsquo;autres créations.
+Elle intégre:
+ Des pièces génériques et configurables dont les dimensions sont compatibles avec la série MakeBlock. Des modèles 3D d&amp;rsquo;accessoires (actionneurs, capteurs, etc) courants dans la réalisation de ce genre de robots. Des recettes de robots à monter soi-même (bientôt).</description>
+    </item>
+    
+    <item>
       <title>Arduino</title>
       <link>https://secil.univ-tlse3.fr/ontheroadagain/docs/arduino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://secil.univ-tlse3.fr/ontheroadagain/docs/arduino/</guid>
       <description>L&amp;rsquo;Arduino Uno est une petit carte contenant un micro-contrôleur assez petit et économique (~15€). Equipé d&amp;rsquo;un petit processeur AVR ATmega328P d&amp;rsquo;ATMEL, il a l&amp;rsquo;avantage d&amp;rsquo;utiliser une tension interne de 5V ce qui permet de le connecter facilement avec de nombreux capteurs et actionneurs (contre 3,3V ou 1,8V pour ARM et autres compatible x86).
