@@ -1,9 +1,9 @@
-baseURL = "https://hcasse.github.com/ontheroadagain"
+baseURL = "https://secil.univ-tlse3.fr/ontheroadagain"
 languageCode = "fr"
 title = "On The Road Again..."
 theme = "story"
 paginate = 5
-publishDir = "docs"
+publishDir = "public"
 
 [[menu.main]]
   name = "Blogs"

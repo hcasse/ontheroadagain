@@ -4,7 +4,7 @@ author: "Hugues Casse"
 tags: moteur, shield, arduino
 draft: false
 date: 2018-11-26 15:30
-image: /docs/highvolt.jpg
+image: docs/highvolt.jpg
 ---
 
 Comme nous l'avons déjà dit, il serait dangereux pour l'Arduino de le relier directement aux moteurs qui demandent bien trop de puissance.
@@ -16,7 +16,7 @@ A la place, nous allons utiliser un shied dédié (circuit emboîtable sur les b
 
 La documentation officielle est [ici](http://www.elecfreaks.com/wiki/index.php?title=L298_Motor_Shield).
 
-![Schéma du shield moteur](/docs/shield-moteur.jpg)
+![Schéma du shield moteur](../shield-moteur.jpg)
 
 Le schéma de la carte ci-dessous nous indique comment nous devons réaliser le câblage :
 

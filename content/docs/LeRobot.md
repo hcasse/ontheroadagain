@@ -4,7 +4,7 @@ author: "Hugues Casse"
 tags: [moteur, robot, IR, capteur, alimentation, matériel]
 draft: false
 date: 2021-03-28 22:00
-image: /docs/wall-e.jpg
+image: docs/wall-e.jpg
 ---
 
 La configuration du robot sera assez simple : le temps qui nous est imparti est assez court et le montage doit être accessible à tout le monde.
@@ -13,7 +13,7 @@ La configuration du robot sera assez simple : le temps qui nous est imparti est 
 
 La photo ci-dessous montre l'ensemble des composants qui vont constituer le robot :
 
-![Matériels disponibles](/docs/matos.jpg)
+![Matériels disponibles](../matos.jpg)
 
 Au niveau électronique, on trouve :
 
@@ -41,7 +41,7 @@ Ce sont bien sûr les composants de base. Comme la formation à l'Arduino se fer
 
 # Au niveau logiciel
 
-![Exemple de piste.](/docs/piste.jpg)
+![Exemple de piste.](../piste.jpg)
 
 Au niveau logiciel, il s'agira de mettre en oeuvre un robot autonome qui sera capable de suivre une piste noire sur un terrain blanc. Cela includes de mettre en oeuvre différents code pour :
 

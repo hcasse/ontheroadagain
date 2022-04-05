@@ -4,7 +4,7 @@ author: "Hugues Casse"
 tags: moteur, courant-continu
 draft: false
 date: 2018-11-06 16:57
-image: /docs/moteur.jpg
+image: docs/moteur.jpg
 ---
 
 Nous allons utiliser des moteur à courant continu, aussi appelés motoréducteurs : ils incluent un moteur en courant continu et un ensemble de pignons permettant de réduire la vitesse du moteur et de transformer en mouvement perpendiculaire à l'axe du moteur. Ce dernier système permet de rendre moins encombrant le moteur pou l'assemblage sur le robot.
@@ -29,6 +29,6 @@ De notre point de vue, il suffit de savoir qu'ils ont 2 entrées : une pour l'al
 
 La puissance (et la vitesse) développée par le moteur CC dépend de l'intensité multiplié par le temps. Il est compliquée d'agir sur l'intensité mais on pourra facilement jouer sur le temps. Ainsi, le shield Arduino délivrant la puissance au moteur sera piloté PWM (Pulse Width Modulation) ou modulation de largeur d'impulsion. L'idée est de délivrer un signal discret et périodique (habituellement de 2ms) et de jouer sur la proportion du signal qui est à 1 (le reste du temps à 0). Plus l'impulsion (partie à 1) est large (proche de 2ms), plus la quantité d'énergie est grande et le moteur sera vélonce. Inversement, une impulsion de largeur nulle arrêtera le moteur.
 
-![Largeur d'impulsion avec signal PWM](/docs/pwm_duty.png)
+![Largeur d'impulsion avec signal PWM](../pwm_duty.png)
 
 On remarquera qu'il faut la période soit suffisamment petite pour profiter de l'inertie du moteur. Sans cela, le déplacement se fera par à-coup (démarrage, arrêt, démarrage, arrêt, etc). En fait, le shield de moteur CC contient 2 MOSFET, des transistors supportant une puissance importante agissant comme des interrupteurs contrôlé par le signal PWM.

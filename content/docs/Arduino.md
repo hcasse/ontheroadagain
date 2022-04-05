@@ -3,8 +3,8 @@ title: Arduino
 author: "Hugues Casse"
 tags: matériel, microcontrôleur
 draft: false
-date: 2021-03-28 22:00
-image: /docs/arduino-banner.jpg
+date: 2021-03-28
+image: docs/arduino-banner.jpg
 credit: https://www.flickr.com/photos/hachimaki123/
 ---
 
@@ -28,7 +28,7 @@ L'ATmega328P qui équipe la carte Arduino Uno est un micro-contrôleur, c'est-à
 
 Le schéma ci-dessous donne une bonne vision des broches disponibles sur l'Arduino Uno.
 
-![Arduino Pin Map](/docs/arduino-map.png)
+![Arduino Pin Map](../arduino-map.png)
 
 Au premier coup d'oeil, à l'exception des broches en charge de l'alimentation et du reset, elles sont partagées entre plusieurs pilotes : GPIO, ADC, PWM, etc. Cela est du au fait que (a) développer un micro-contrôleur est très cher et (b) multiplier les broches sortant d'une puce pose des problèmes technologiques (et de coût à la construction de la carte). Par conséquent, les constructeurs maximisent l'utilisabilité des puces en essayant de minimiser le nombre de broches. Le résultat global est qu'il faut :
 
@@ -52,7 +52,7 @@ Un autre élément qui a permis l'acceptation très large de l'Arduino est sa si
 * d'un câble série
 * de l'[EDI (Environnement de Développement Arduino Arduino)](https://www.arduino.cc/en/Main/Software).
 
-![Connexion de l'Arduino par USB](/docs/connect.png)
+![Connexion de l'Arduino par USB](../connect.png)
 
 Le câble USB permet à la fois d'alimenter la carte Arduino, d'écrire le code de l'application dans la mémoire flash et de servir de port série (entrée / sortie) pour déboguer l'application.
 
@@ -70,7 +70,7 @@ L'écriture d'un programme Arduino est également. Le langage utilisé est du C+
 
 L'[exemple ci-desous](https://www.arduino.cc/en/Tutorial/Blink) fait clignoter le LED câblée sur la carte Arduino (roche 13 pour le Uno) avec un délai d'1s entre chaque allumage et extinction :
 
-![Exemple d'utilisation de l'IDE](/docs/ide.png)
+![Exemple d'utilisation de l'IDE](../ide.png)
 
 On notera que l'Arduino dispose d'excellents [tutoriels et exemples](https://www.arduino.cc/en/Tutorial/HomePage).
 

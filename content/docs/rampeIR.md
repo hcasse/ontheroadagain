@@ -4,7 +4,7 @@ author: "Hugues Casse"
 tags: capteur, IR
 draft: false
 date: 2018-11-26 14:57
-image: /docs/IRS.jpg
+image: docs/IRS.jpg
 ---
 
 Le capteur utilisé dans le projet est un rampe de 3 capteurs Infra-Rouge (IR) QTR-3C de Polulu.
@@ -17,7 +17,7 @@ Le capteur est composé de 3 couples (LED IR émettrice, photo-transistor) : la 
 
 Le schéma ci-dessous montre le câblage du capteur :
 
-![Circuit de capteur IR](/docs/circuitIR.png)
+![Circuit de capteur IR](../circuitIR.png)
 
 Une fois l'alimentation et la masse connectée, chaque sortie OUTi est reliée à un couple (LED IR, photo-transistor). Ces lignes sont bidirectionnelles et le protocole suivant doit être appliqué pour réaliser une mesure :
 
@@ -34,7 +34,7 @@ La réflectivité du support est inversement proportionnelle à t' - t. Il faut 
 
 Les caractéristiques géométriques du capteur pourront aussi vous être utiles (Attention ! L'unité utilisée est le pouce " -- inch) :
 
-![Dimensions du capteur IR](/docs/tailleIR.jpg)
+![Dimensions du capteur IR](../tailleIR.jpg)
 
 Ces données pourront également vous êtres utiles :
 

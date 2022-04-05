@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on On The Road Again...</title>
-    <link>https://hcasse.github.com/posts/</link>
+    <link>https://secil.univ-tlse3.fr/ontheroadagain/posts/</link>
     <description>Recent content in News on On The Road Again...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 29 Mar 2022 12:18:06 +0200</lastBuildDate>
     
-	<atom:link href="https://hcasse.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://secil.univ-tlse3.fr/ontheroadagain/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nouvelle Saison 2022</title>
-      <link>https://hcasse.github.com/posts/2022/</link>
+      <link>https://secil.univ-tlse3.fr/ontheroadagain/posts/2022/</link>
       <pubDate>Tue, 29 Mar 2022 12:18:06 +0200</pubDate>
       
-      <guid>https://hcasse.github.com/posts/2022/</guid>
+      <guid>https://secil.univ-tlse3.fr/ontheroadagain/posts/2022/</guid>
       <description>Une nouvelle saison d&amp;rsquo;On The Road Again va démarrer!.
 La réunion aura le Lundi 04/04/22 à 14:00 en salle U3-305.
 Durant cette réunion on parlera technique et organisation. Enfin, je confierai le matériel aux équipes participantes.</description>

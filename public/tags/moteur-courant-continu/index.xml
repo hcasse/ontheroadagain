@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>moteur, courant-continu on On The Road Again...</title>
-    <link>https://hcasse.github.com/tags/moteur-courant-continu/</link>
+    <link>https://secil.univ-tlse3.fr/ontheroadagain/tags/moteur-courant-continu/</link>
     <description>Recent content in moteur, courant-continu on On The Road Again...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="https://hcasse.github.com/tags/moteur-courant-continu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://secil.univ-tlse3.fr/ontheroadagain/tags/moteur-courant-continu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moteur à courant-continu DG01D</title>
-      <link>https://hcasse.github.com/docs/moteur/</link>
+      <link>https://secil.univ-tlse3.fr/ontheroadagain/docs/moteur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcasse.github.com/docs/moteur/</guid>
+      <guid>https://secil.univ-tlse3.fr/ontheroadagain/docs/moteur/</guid>
       <description>Nous allons utiliser des moteur à courant continu, aussi appelés motoréducteurs : ils incluent un moteur en courant continu et un ensemble de pignons permettant de réduire la vitesse du moteur et de transformer en mouvement perpendiculaire à l&amp;rsquo;axe du moteur. Ce dernier système permet de rendre moins encombrant le moteur pou l&amp;rsquo;assemblage sur le robot.
 Ils sont constitué d&amp;rsquo;un double sortie sur axe Ø5 mm à double méplat.
 Les caractéristiques de ces moteurs sont les suivantes :</description>
