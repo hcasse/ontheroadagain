@@ -1,6 +1,6 @@
 ---
 title: Programmation des systèmes réactifs
-author: "Hugues Cassé"
+author: "Hugues Casse"
 tags: système réactif, programmation, arduino, capteur, actionneur, régulation
 image: docs/polling.jpg
 credit: https://www.flickr.com/photos/frostbricks/
