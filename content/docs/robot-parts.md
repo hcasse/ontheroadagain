@@ -45,10 +45,11 @@ est de créer, dans le répertoire `RobotParts`, un fichier `test.scad`
 et de taper le code suivant:
 
 ```openscad
-import <DIR/XXX.scad>
+use <DIR/XXX.scad>
 
 XXX(PARAMS);
 ```
+> **Erreur dans le code fixée!**
 
 Avec _PARAMS_ une séquence de paramètres séparés par des virgules de la forme _IDENTIFIANT_=_VALEUR_. La liste des paramètres est disponible dans les fichiers `.md`.
 
