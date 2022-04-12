@@ -33,10 +33,15 @@ Donc quand on conçoit son système embarqué, il faut songer à :
 Pour cela, on peut faire un plan de connexion qui peut prendre la forme de
 tableau comme ci-dessous :
 
-Couleur | Broche Arduino	| Type	| P2riphérique	| Broche	| Commentaire
+Couleur | Broche Arduino	| Type	| Périphérique	| Broche	| Commentaire
 ---		| ---		| ---			| ---			| ---		| ---
 Bleu	| 4			| digital in	| Rampe IR		| X			| ...
 Vert	| 5			| ...			| ...			| ...		| ...
+
+Le type peut être :
+* digital in, out, in-out,
+* analog in,
+* analog out.
 
 Un tel tableaux a plein d'avantages :
 * Pour vérifier que votre câblage est faisable.
