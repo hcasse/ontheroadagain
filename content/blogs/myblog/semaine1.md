@@ -10,7 +10,7 @@ Vous avez besoin de [Hugo](https://gohugo.io/) pour générer le site (disponibl
 
 Il faut ramener les sources du site :
 ```bash
-git clone git@github.com:hcasse/ontheroadagain.git
+git clone git@github.com:hcasse/ontheroadagain.git --recursive
 ```
 
 Pour créer votre blog, il suffit de répéter la structure :
