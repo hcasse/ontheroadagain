@@ -3,10 +3,14 @@ title: F(Ligne)-Zero - Week 1&2
 author: "flz"
 draft: false
 image: blogs/flz/flz.jpg
+date: 2022-04-18
 ---
 
-Ainsi s'achève la première semaine du BE pour le groupe F(Ligne)-Zero.
+Ainsi s'achève la deuxième semaine du BE pour le groupe F(Ligne)-Zero.
+
 Le thème principal de cette première semaine : découverte 👀
+
+Le thème principal de cette deuxième semaine : modélisation 🚗
 
 ![Image](../material_discovery.jpg)
 Petit descriptif de ces deux premières semaines :
