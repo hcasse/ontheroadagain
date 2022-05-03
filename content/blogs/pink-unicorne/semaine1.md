@@ -1,5 +1,5 @@
 ---
-title: 2 premières semaines de Pink-Unicorne
+title: 2 premières semaines de Pink-Unicorn
 author: "pink-unicorne"
 draft: false
 image: blogs/pink-unicorne/robot.png
