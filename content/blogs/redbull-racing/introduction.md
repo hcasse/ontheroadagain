@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: (redbull-racing) - Introduction
 author: "redbull racing"
 draft: false
 image: blogs/redbull-racing/introduction.png
@@ -19,4 +19,3 @@ Pour cela nous aurons droit à :
 - Une petite roue libre !
 
 Nous détaillerons dans les différentes pages nos avancées et les difficultés rencontrées...
-
