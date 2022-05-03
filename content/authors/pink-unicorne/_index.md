@@ -1,7 +1,7 @@
 ---
 ---
 
-![My Blog](/ontheroadagain/authors/pink-unicorne/unicorn.jpg)
+![My Blog](/ontheroadagain/authors/pink-unicorn/unicorn.png)
 
 Groupe Pink Unicorn composé de Bastien CANTO et de Thibault ROUX
 
