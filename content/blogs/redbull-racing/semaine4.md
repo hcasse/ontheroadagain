@@ -1,5 +1,5 @@
 ---
-title: (redbull-racing) - Semaine 4
+title: (rebull-racing) - Semaine 4
 author: "redbull racing"
 draft: false
 image: blogs/redbull-racing/introduction.png
@@ -17,6 +17,12 @@ Voici la nouvelle version de notre robot (et la définitive on espère !)
 ![robot2](../robot2.png)
 
 Une fois le châssis imprimé, nous avons réassemblé le robot et décidé d'améliorer / tester dans différentes situations notre premier algorithme.
+
+Voici le schéma électrique de notre robot une fois assemblé :
+
+![schema](../schema.png)
+
+Nous avons soudé certains fils à des pins afin de pouvoir les placer dans les dominos plus facilement et pour éviter qu'ils s'enlèvent.
 
 Quelques problèmes de relance de moteurs à basse vitesse sont néanmoins à noter.
 
