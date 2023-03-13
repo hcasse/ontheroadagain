@@ -3,7 +3,7 @@ title: Arduino
 author: "Hugues Casse"
 tags: matériel, microcontrôleur
 draft: false
-date: 2021-03-28
+date: 2023-03-13
 image: docs/arduino-banner.jpg
 credit: https://www.flickr.com/photos/hachimaki123/
 ---
@@ -72,5 +72,19 @@ L'[exemple ci-desous](https://www.arduino.cc/en/Tutorial/Blink) fait clignoter l
 
 ![Exemple d'utilisation de l'IDE](../ide.png)
 
+L'IDE fonctionne :
+  * [en ligne](https://create.arduino.cc/editor),
+  * ou peut être téléchargé [ici](
+  https://www.arduino.cc/en/software).
+
 On notera que l'Arduino dispose d'excellents [tutoriels et exemples](https://www.arduino.cc/en/Tutorial/HomePage).
+
+Pour débuter, je conseille les tutoriels suivants :
+  * [Blink](https://docs.arduino.cc/built-in-examples/basics/Blink),
+  * [Digital Read Serial](https://docs.arduino.cc/built-in-examples/basics/DigitalReadSerial),
+  * [Fading a LED](https://docs.arduino.cc/built-in-examples/basics/Fade).
+  * [Blink without delay](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay)
+  * [How to Wire and Program a Button](https://docs.arduino.cc/built-in-examples/digital/Button)
+  * [Debounce on Push Button](https://docs.arduino.cc/built-in-examples/digital/Debounce)
+  * [State Change Detection for push buttons](https://docs.arduino.cc/built-in-examples/digital/StateChangeDetection)
 
