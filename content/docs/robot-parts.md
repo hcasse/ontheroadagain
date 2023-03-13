@@ -8,7 +8,7 @@ image: docs/robot-parts.jpg
 credit: https://www.flickr.com/photos/101032075@N07/
 ---
 
-Cette petite [bibliothèque](https://github.com/tcarle/RobotParts/tree/exp) de pièces pour robot est développé à
+Cette petite [bibliothèque](https://github.com/hcasse/RobotParts) de pièces pour robot est développé à
 l'Université Paul Sabatier. Elle a déjà permis la mise en oeuvre de
 plusieurs petits robot **suiveurs de ligne** mais nous espérons qu'elle
 servira pour d'autres créations.
@@ -24,7 +24,7 @@ La bibliothèque se présente sous forme d'une archive Git récupérable
 par la commande:
 
 ```bash
-$ git clone https://github.com/tcarle/RobotParts.git -b exp
+$ git clone git@github.com:hcasse/RobotParts.git -b exp
 ```
 
 Le répertoire `extern` contient les modèles 3D pour intégration alors
