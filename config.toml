@@ -23,4 +23,9 @@ publishDir = "public"
   url = "/posts/"
   weight = 1
 
+[[menu.main]]
+  name = "Authors"
+  title = "Authors"
+  url = "/authors/"
+  weight = 4
 
