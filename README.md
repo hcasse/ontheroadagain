@@ -90,8 +90,6 @@ TEXTE MARKDOWN
 
 La ligne `credit` n'est pas indispensable mais quand j'utilise des images [Flickr](https://www.flickr.com), je met ici l'URL de l'auteur de l'image.
 
-La date, si la ligne `date` n'est pas présente, est obtenue à partir de la date de création du fichier.
-
 
 ## Tester
 
